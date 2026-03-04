@@ -1,4 +1,4 @@
-# Jaris Refinance Product Demo
+# Jaris Refinance Prototype
 
 Interactive 5-step wizard demonstrating Jaris's loan refinance product flow — from reviewing an existing merchant cash advance through offer selection, terms acceptance, payoff execution, and fund disbursement.
 
